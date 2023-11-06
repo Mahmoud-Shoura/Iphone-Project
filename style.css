@@ -2,3 +2,6 @@ h1 {
     background: linear-gradient(to right top, #315,#123,#258);
     color: whitesmoke;
 }
+body {
+    background-color: burlywood;
+}
